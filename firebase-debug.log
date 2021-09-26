@@ -1,0 +1,9 @@
+[debug] [2021-09-26T12:24:51.676Z] ----------------------------------------------------------------------
+[debug] [2021-09-26T12:24:51.677Z] Command:       /usr/local/bin/node /home/sa2taka/.yarn/bin/firebase login
+[debug] [2021-09-26T12:24:51.678Z] CLI Version:   9.18.0
+[debug] [2021-09-26T12:24:51.678Z] Platform:      linux
+[debug] [2021-09-26T12:24:51.678Z] Node Version:  v16.0.0
+[debug] [2021-09-26T12:24:51.678Z] Time:          Sun Sep 26 2021 21:24:51 GMT+0900 (Japan Standard Time)
+[debug] [2021-09-26T12:24:51.678Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as sa2taka@gmail.com
